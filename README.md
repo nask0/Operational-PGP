@@ -48,7 +48,7 @@ Tor directly into Thunderbird (as well as sanitizes emails slightly). The usual 
 about Tor apply: do not rely exclusively on Tor, if you need to protect your IP address
 then use an IP address that is not attributable to you.
 
-### the Subject must never be relevant
+### The Subject must never be relevant
 
 There is little else you can do about the `To`, `From`, and `IP`, as those are controlled 
 by the infrastructure. However, you have complete control over the `Subject`. All 
